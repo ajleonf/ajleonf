@@ -1,7 +1,7 @@
 <div align="center">
  <h1 align="center">This is my usual workflow ⚙⚡</h1>
  </div>
- <img src="https://github.com/ajleonf/files/blob/main/workflow_v2.svg">
+ <img src="https://github.com/ajleonf/files/blob/main/workflow_v3.svg">
 
  ## About Me
 
