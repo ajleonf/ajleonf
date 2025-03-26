@@ -1,5 +1,5 @@
 <div align="center">
- <h1 align="center">This is my usual workflow ⚙</h1>
+ <h1 align="center">This is my usual workflow ⚙⚡</h1>
  </div>
  <img src="https://github.com/ajleonf/files/blob/main/workflow.drawio.svg">
 
