@@ -7,7 +7,7 @@
 
  - Geodata Specialist 🛰
  - Apps for prediction and modeling natural disasters 🌊
- - Python and SQL 🐍
+ - Apps architecture, data ETL, modeling and dataViz ⚡
  - Geeky Arduino projects 🤖
 #### For more information about my background visit my [Linkedin](https://www.linkedin.com/in/ajleonf/)
 
