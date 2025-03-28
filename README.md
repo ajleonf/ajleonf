@@ -15,9 +15,9 @@
 #### Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![JavaScrips](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
 #### ML
 
@@ -35,9 +35,13 @@
 
 #### Tools and Technologies
 
+![QGIS](https://img.shields.io/badge/QGIS-green?style=for-the-badge&logo=Qgis&logoColor=white)&nbsp;
+![GoogleEarthEngine](https://img.shields.io/badge/Google_Earth_Engine-darkblue?style=for-the-badge&logo=googleearthengine&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GoogleEarthEngine](https://img.shields.io/badge/Google_Earth_Engine-blue?style=for-the-badge&logo=googleearthengine&logoColor=white)&nbsp;
+![Anaconda](https://img.shields.io/badge/anaconda-green?style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)&nbsp;
+![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=Blender&logoColor=white)&nbsp;
 
 #### IDEs
 
