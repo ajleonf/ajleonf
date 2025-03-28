@@ -17,20 +17,22 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScrips](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/Shell_Script-black?style=for-the-badge&logo=HTML5&logoColor=red)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
 #### ML
 
+![GoogleEarthEngine](https://img.shields.io/badge/Google_Earth_Engine-blue?style=for-the-badge&logo=googleearthengine&logoColor=white)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
-![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-%139C5A.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 
 #### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=SQLite&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![DBeaver](https://img.shields.io/badge/DBeaver-brown?style=for-the-badge&logo=dbeaver&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 
