@@ -9,7 +9,7 @@
  - Apps for prediction and modeling of natural disasters 🌊
  - Python and SQL 🐍
  - Geeky Arduino projects 🤖
-### For more information about my background visit my [Linkedin](https://www.linkedin.com/in/ajleonf/)
+#### For more information about my background visit my [Linkedin](https://www.linkedin.com/in/ajleonf/)
 
 ## Skills:
 
